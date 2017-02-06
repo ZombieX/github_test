@@ -4,3 +4,4 @@ change first
 change second
 
 make feature A
+merge feature A
