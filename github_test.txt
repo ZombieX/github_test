@@ -5,3 +5,4 @@ change second
 
 make feature A
 merge feature A
+for delete line
